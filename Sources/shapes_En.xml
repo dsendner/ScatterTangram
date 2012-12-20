@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TangramShapes>
+
+  <TangramShape Level="1" MotherPiece="0 0 50 0 50 150 150 150 150 250 100 250 100 200 50 200 50 250 0 250">
+    <Piece Orientation="0" PositionX="512.210119664609" PositionY="384.034024432058" Path="0 0 50 0 50 250 0 250"/>
+    <Piece Orientation="0" PositionX="463.089143656964" PositionY="433.784835037688" Path="0 0 50 0 50 50 0 50"/>
+    <Piece Orientation="0" PositionX="538.116100139913" PositionY="458.741127082697" Path="0 0 50 0 50 100 0 100"/>
+  </TangramShape>
+
+  <TangramShape Level="1" MotherPiece="0 100 100 0 150 50 150 0 200 0 200 250 0 250">
+    <Piece Orientation="0" PositionX="487.711478195577" PositionY="357.858831307078" Path="0 100 100 0 200 100"/>
+    <Piece Orientation="0" PositionX="586.229967002742" PositionY="309.832463548944" Path="0 0 50 0 50 100 0 50"/>
+    <Piece Orientation="0" PositionX="512.235896771364" PositionY="384.138449592277" Path="0 100 200 100 200 250 0 250"/>
+  </TangramShape>
+
+  <TangramShape Level="1" MotherPiece="0 100 100 0 200 100 150 100 200 200 125 200 125 250 75 250 75 200 0 200 50 100">
+    <Piece Orientation="0" PositionX="486.987561510524" PositionY="359.195893254268" Path="0 100 100 0 200 100"/>
+    <Piece Orientation="0" PositionX="487.331623756046" PositionY="458.729811106355" Path="50 0 150 0 200 100 0 100"/>
+    <Piece Orientation="0" PositionX="487.802757822748" PositionY="484.634040982195" Path="0 0 50 0 50 50 0 50"/>
+  </TangramShape>
+
+  <TangramShape Level="2" MotherPiece="0 275 50 200 150 200 400 0 400 200 525 200 600 100 600 350 400 350 400 500 200 275">
+    <Piece Orientation="0" PositionX="312.042177126633" PositionY="383.317429879281" Path="50 0 150 0 200 75 0 75"/>
+    <Piece Orientation="0" PositionX="487.638989197635" PositionY="209.381234624257" Path="0 200 250 0 250 200"/>
+    <Piece Orientation="0" PositionX="513.065871424819" PositionY="435.110297476559" Path="0 0 250 0 250 300"/>
+    <Piece Orientation="0" PositionX="688.13655049615" PositionY="358.76690290584" Path="0 0 125 0 125 150 0 150"/>
+    <Piece Orientation="0" PositionX="861.972325126357" PositionY="309.168596928539" Path="75 0 0 100 0 250 75 250"/>
+  </TangramShape>
+
+  <TangramShape Level="2" MotherPiece="0 400 75 300 75 150 25 125 75 125 75 75 125 75 125 25 150 0 150 50 125 75 175 75 175 125 225 125 175 150 175 300 250 400">
+    <Piece Orientation="0" PositionX="436.745936929836" PositionY="608.514595296892" Path="75 0 175 0 250 100 0 100"/>
+    <Piece Orientation="0" PositionX="460.912724813018" PositionY="409.266185608282" Path="0 0 50 50 100 0 100 150 0 150"/>
+    <Piece Orientation="0" PositionX="435.352857575254" PositionY="407.704176875192" Path="0 0 200 0 100 75"/>
+    <Piece Orientation="0" PositionX="436.876935556437" PositionY="308.674902013031" Path="0 0 100 0 100 50 0 50"/>
+    <Piece Orientation="0" PositionX="474.516516102231" PositionY="220.91248774867" Path="25 0 25 50 0 75 0 25"/>
+  </TangramShape>
+
+  <TangramShape Level="2" MotherPiece="0 250 100 150 200 150 200 125 250 125 200 75 195 0 245 50 250 125 275 50 325 45 320 100 250 125 300 125 300 175 200 175 200 350 100 350">
+    <Piece Orientation="0" PositionX="437.596960421377" PositionY="458.834576692173" Path="100 0 100 200 0 100"/>
+    <Piece Orientation="0" PositionX="537.77120092204" PositionY="457.493371007052" Path="0 0 100 0 100 200 0 200"/>
+    <Piece Orientation="0" PositionX="587.356373916828" PositionY="384.173618145348" Path="0 0 100 0 100 50 0 50"/>
+    <Piece Orientation="0" PositionX="594.783748358343" PositionY="271.875257623075" Path="0 0 50 50 55 125 5 75"/>
+    <Piece Orientation="0" PositionX="626.921108676265" PositionY="294.38686365018" Path="0 80 25 5 75 0 70 55"/>
+  </TangramShape>
+
+  <TangramShape Level="3" MotherPiece="0 400 150 400 150 300 25 300 200 0 475 300 200 300 200 400 500 400 450 600 50 600">
+    <Piece Orientation="0" PositionX="387.785600422839" PositionY="233.897016947733" Path="175 0 175 300 0 300"/>
+    <Piece Orientation="0" PositionX="563.256237622803" PositionY="234.935698144196" Path="0 0 275 300 0 300"/>
+    <Piece Orientation="0" PositionX="511.631206181301" PositionY="534.729084708918" Path="0 0 50 0 50 300 0 300"/>
+    <Piece Orientation="0" PositionX="310.597166820766" PositionY="584.87253862487" Path="0 0 150 0 150 200 50 200"/>
+    <Piece Orientation="0" PositionX="513.243776019486" PositionY="583.747343385789" Path="0 0 175 0 175 200 0 200"/>
+    <Piece Orientation="0" PositionX="687.972521507522" PositionY="584.518047193501" Path="0 0 75 200 0 200"/>
+    <Piece Orientation="0" PositionX="687.560131664616" PositionY="583.296850139289" Path="0 0 125 0 75 200"/>
+  </TangramShape>
+
+  <TangramShape Level="3" MotherPiece="0 100 100 0 150 50 200 0 250 50 350 100 475 350 450 350 500 475 300 475 250 350 200 425 225 500 125 500 175 400 100 100">
+    <Piece Orientation="0" PositionX="362.073700807415" PositionY="233.448299806209" Path="0 100 100 0 200 100"/>
+    <Piece Orientation="44.7776633815729" PositionX="461.916042942201" PositionY="183.410089830203" Path="0 0 70 0 70 70 0 70"/>
+    <Piece Orientation="0" PositionX="525.01803649534" PositionY="395.400443720195" Path="0 0 100 0 150 250 100 325 75 300"/>
+    <Piece Orientation="0" PositionX="612.799614000532" PositionY="333.901144897922" Path="50 0 150 50 50 300 0 50"/>
+    <Piece Orientation="0" PositionX="638.464238258861" PositionY="360.534906524534" Path="100 0 225 250 0 250"/>
+    <Piece Orientation="0" PositionX="437.29736803015" PositionY="585.405400105823" Path="50 0 75 25 100 100 0 100"/>
+    <Piece Orientation="0" PositionX="637.896655489248" PositionY="610.414011439686" Path="0 0 200 0 250 125 50 125"/>
+  </TangramShape>
+
+  <TangramShape Level="3" MotherPiece="0 200 150 250 200 350 190 300 375 250 300 175 350 75 450 0 500 200 425 150 445 300 525 375 485 450 460 375 400 400 280 425 215 525 255 600 175 550 215 450 200 350 50 300">
+    <Piece Orientation="0" PositionX="313.821593488625" PositionY="383.778354872322" Path="0 0 150 50 200 150 50 100"/>
+    <Piece Orientation="0" PositionX="474.334471163617" PositionY="597.518402704479" Path="105 0 40 100 80 175 0 125 40 25"/>
+    <Piece Orientation="0" PositionX="509.389489939658" PositionY="438.1070556721" Path="0 50 185 0 210 150 25 200"/>
+    <Piece Orientation="0" PositionX="713.558997856533" PositionY="358.387644993367" Path="50 0 85 225 25 250 0 100"/>
+    <Piece Orientation="0" PositionX="735.020266795881" PositionY="457.935982585576" Path="0 0 75 75 35 150"/>
+    <Piece Orientation="0" PositionX="598.252781006669" PositionY="245.827489075746" Path="50 0 0 100 75 175 125 75"/>
+    <Piece Orientation="0" PositionX="662.616342472895" PositionY="183.677568459404" Path="100 0 150 200 0 75"/>
+  </TangramShape>
+</TangramShapes>

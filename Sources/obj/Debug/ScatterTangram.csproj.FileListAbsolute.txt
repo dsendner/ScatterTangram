@@ -1,0 +1,139 @@
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.baml
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.baml
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.baml
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\App.baml
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.g.cs
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.g.cs
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\App.g.cs
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.g.resources
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.Properties.Resources.resources
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.csproj.GenerateResource.Cache
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\bin\Debug\Resources\icon.png
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\bin\Debug\Resources\iconPreview.png
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.exe
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.pdb
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.exe
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.pdb
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.baml
+C:\Users\D-Day\Documents\Visual Studio 2008\Projects\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.exe
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.pdb
+E:\ScatterTangram\ScatterTangram\bin\Debug\Resources\icon.png
+E:\ScatterTangram\ScatterTangram\bin\Debug\Resources\iconPreview.png
+E:\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.exe
+E:\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.pdb
+E:\ScatterTangram\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+E:\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.baml
+E:\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.baml
+E:\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.baml
+E:\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.baml
+E:\ScatterTangram\ScatterTangram\obj\Debug\App.baml
+E:\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\App.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.g.resources
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.Properties.Resources.resources
+E:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.csproj.GenerateResource.Cache
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.exe
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.pdb
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.baml
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.baml
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.baml
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.baml
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\App.baml
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.g.cs
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.g.cs
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.g.cs
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\App.g.cs
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.g.resources
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.Properties.Resources.resources
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.csproj.GenerateResource.Cache
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\bin\Debug\Resources\icon.png
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\bin\Debug\Resources\iconPreview.png
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.exe
+C:\Users\IDPCC\Desktop\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.pdb
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.exe
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.pdb
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.baml
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.baml
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.baml
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.baml
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\App.baml
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.g.cs
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.g.cs
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.g.cs
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\App.g.cs
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.g.resources
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.Properties.Resources.resources
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.csproj.GenerateResource.Cache
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\bin\Debug\Resources\icon.png
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\bin\Debug\Resources\iconPreview.png
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.exe
+C:\Users\D-Day\Desktop\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.pdb
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.exe
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.pdb
+H:\ScatterTangram\ScatterTangram\bin\Debug\Resources\icon.png
+H:\ScatterTangram\ScatterTangram\bin\Debug\Resources\iconPreview.png
+H:\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.exe
+H:\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.pdb
+H:\ScatterTangram\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+H:\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.baml
+H:\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.baml
+H:\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.baml
+H:\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.baml
+H:\ScatterTangram\ScatterTangram\obj\Debug\App.baml
+H:\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.g.cs
+H:\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.g.cs
+H:\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.g.cs
+H:\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.g.cs
+H:\ScatterTangram\ScatterTangram\obj\Debug\App.g.cs
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.g.resources
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.Properties.Resources.resources
+H:\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.csproj.GenerateResource.Cache
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.exe
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.pdb
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.baml
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.baml
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.baml
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.baml
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\App.baml
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\Pages\MainScatterView.g.cs
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\Pages\Menu.g.cs
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\Pages\SecondScatterView.g.cs
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\App.g.cs
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.g.resources
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.Properties.Resources.resources
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\obj\Debug\ScatterTangram.csproj.GenerateResource.Cache
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\bin\Debug\Resources\icon.png
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\bin\Debug\Resources\iconPreview.png
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.exe
+C:\Users\D-Day\Desktop\SENDNER_Q2\ScatterTangram\ScatterTangram\bin\Debug\ScatterTangram.pdb
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\ScatterTangram.exe
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\ScatterTangram.pdb
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\ResolveAssemblyReference.cache
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\App.baml
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\App.g.cs
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\ScatterTangram_Content.g.cs
+L:\SENDNER_Q2\ScatterTangram\obj\Debug\ScatterTangram_MarkupCompile.cache

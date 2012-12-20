@@ -1,0 +1,23 @@
+﻿<s:SurfaceWindow x:Class="ScatterTangram.SurfaceWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Title="ScatterTangram" Width="1024" Height="768" >
+
+    <s:SurfaceWindow.Resources>
+        <!--The Background-->
+        <ImageBrush x:Key="WindowBackground" Stretch="None" Opacity="0.6" ImageSource="pack://application:,,,/Resources/WindowBackground.jpg"/>
+
+        <!--The button for load the MainScatterView-->
+        <s:SurfaceButton x:Key="goButton" Height="42.87" Margin="362,0,438,285" Name="goButton" VerticalAlignment="Bottom" Click="goButton_Click">GO</s:SurfaceButton>
+
+        <!--The button for come back in the menu-->
+        <s:SurfaceButton x:Key="returnButton" Height="23" Margin="379,12,388,0" VerticalAlignment="Top" Click="returnButton_Click">Return to main menu</s:SurfaceButton>
+
+        <!-- The button for come back to the mainScatterView-->
+        <s:SurfaceButton x:Key="returnScButton" Height="23" Margin="379,12,388,0" VerticalAlignment="Top" Click="returnScButton_Click">Return to shapes selection</s:SurfaceButton>
+    </s:SurfaceWindow.Resources>
+
+    <Grid x:Name="grid"  Background="{StaticResource WindowBackground}">
+    </Grid>
+</s:SurfaceWindow>
